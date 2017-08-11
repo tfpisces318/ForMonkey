@@ -1,0 +1,44 @@
+{
+    "0": {
+        "name": "身份證明",
+        "content": "只是張證明,無特殊功用",
+        "image": "basic00",
+        "title": "Basic"
+    },
+    "1": {
+        "name": "蘋果",
+        "content": "好吃的水果,可以回復生命值1點\n(生命值已滿則不會有效果)",
+        "image": "apple01",
+        "title": "Apple"
+    },
+    "2": {
+        "name": "香蕉",
+        "content": "好吃的水果,可以回復生命值2點\n(生命值已滿則不會有效果)",
+        "image": "banana02",
+        "title": "Banana"
+    },
+    "3": {
+        "name": "橘子",
+        "content": "多汁的水果,可以回復生命值4點\n(生命值已滿則不會有效果)",
+        "image": "orange03",
+        "title": "Orange"
+    },
+    "21": {
+        "name": "小石子",
+        "content": "破碎的石頭,對敵人造成1點傷害",
+        "image": "stone21",
+        "title": "Stone"
+    },
+    "22": {
+        "name": "棍子",
+        "content": "基本的木棍,對敵人造成2點傷害",
+        "image": "stick22",
+        "title": "Stick"
+    },
+    "23": {
+        "name": "狼牙棒",
+        "content": "殘忍的狼牙棒,對敵人造成4點傷害",
+        "image": "mace23",
+        "title": "Mace"
+    }
+}

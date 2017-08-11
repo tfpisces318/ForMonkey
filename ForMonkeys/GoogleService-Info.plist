@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>418190983491-67r9dkg3jmbo0jgq499d2vf35m82ai32.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.418190983491-67r9dkg3jmbo0jgq499d2vf35m82ai32</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYSUQ9Ujj5fAj3OUZdEh9-9a6byqvw0yE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>418190983491</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Holland</string>
+	<key>PROJECT_ID</key>
+	<string>holland-ed769</string>
+	<key>STORAGE_BUCKET</key>
+	<string>holland-ed769.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:418190983491:ios:b5ae5e6f8362b9f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://holland-ed769.firebaseio.com</string>
+</dict>
+</plist>
